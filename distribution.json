@@ -22,6 +22,21 @@
       },
       "mainServer": true,
       "autoconnect": true,
+      "javaOptions": {
+        "supported": "=>17",
+        "suggestedMajor": 22,
+        "platformOptions": [
+          {
+            "platform": "win32",
+            "architecture": "x64",
+            "distribution": "TEMURIN"
+          }
+        ],
+        "ram": {
+          "minimum": 8192,
+          "recommended": 8192
+        }
+      },
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.17.2",
