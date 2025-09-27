@@ -250,7 +250,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 6718,
+            "size": 6726,
             "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/MichaFarm-1.20.1/files/options.txt",
             "path": "options.txt"
           }
