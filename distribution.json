@@ -131,6 +131,16 @@
           ]
         },
         {
+          "id": "moe.plushie.armourers_workshop.init.platform.fabric.proxy:armourers_workshop:2.1.2@jar",
+          "name": "Armourer's Workshop",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3784024,
+            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/MichaFarm-1.20.1/fabricmods/required/armourersworkshop-fabric-1.20.1-2.1.2.jar",
+            "MD5": "5293233af4d7b4077b531280e40f4405"
+          }
+        },
+        {
           "id": "nora.nora:enterkeymod:1.0-SNAPSHOT@jar",
           "name": "EnterKeyMod",
           "type": "FabricMod",
