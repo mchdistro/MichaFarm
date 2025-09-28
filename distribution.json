@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "MichaFarm-1.20.1",
+      "id": "v1-1.20.1",
       "name": "미챠팜",
       "description": "Minecraft 1.20.1 (Fabric v0.17.2)",
       "icon": "https://github.com/mchdistro/MichaFarm/raw/main/server-icon.png",
@@ -136,7 +136,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3784024,
-            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/MichaFarm-1.20.1/fabricmods/required/armourersworkshop-fabric-1.20.1-2.1.2.jar",
+            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/v1-1.20.1/fabricmods/required/armourersworkshop-fabric-1.20.1-2.1.2.jar",
             "MD5": "5293233af4d7b4077b531280e40f4405"
           }
         },
@@ -146,7 +146,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7060,
-            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/MichaFarm-1.20.1/fabricmods/required/EnterKeyMod-1.0-SNAPSHOT.jar",
+            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/v1-1.20.1/fabricmods/required/EnterKeyMod-1.0-SNAPSHOT.jar",
             "MD5": "eefcb2b66630fd5f2855722c6b398bb2"
           }
         },
@@ -156,7 +156,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2107873,
-            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/MichaFarm-1.20.1/fabricmods/required/fabric-api-0.92.6+1.20.1.jar",
+            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/v1-1.20.1/fabricmods/required/fabric-api-0.92.6+1.20.1.jar",
             "MD5": "3483560775f416a4c759535b898165a5"
           }
         },
@@ -166,7 +166,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2726899,
-            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/MichaFarm-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/v1-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
             "MD5": "45577adb5ab16505572c6ea4b1006e58"
           }
         },
@@ -176,7 +176,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1399759,
-            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/MichaFarm-1.20.1/fabricmods/required/jei-1.20.1-fabric-15.20.0.116.jar",
+            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/v1-1.20.1/fabricmods/required/jei-1.20.1-fabric-15.20.0.116.jar",
             "MD5": "245d7c8a946e56f69b669e5db1a5ae88"
           }
         },
@@ -186,8 +186,18 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7209178,
-            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/MichaFarm-1.20.1/fabricmods/required/journeymap-1.20.1-5.10.3-fabric.jar",
+            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/v1-1.20.1/fabricmods/required/journeymap-1.20.1-5.10.3-fabric.jar",
             "MD5": "0daacf8f13dd33450a970601cf21d627"
+          }
+        },
+        {
+          "id": "com.hyfata.najoan:koreanpatch:1.9.0+mc1.20.1@jar",
+          "name": "Korean Patch",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 564695,
+            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/v1-1.20.1/fabricmods/required/koreanpatch-fabric-1.9.0+mc1.20.1.jar",
+            "MD5": "04dfca134af2ff3f4bb58358bf25ad9f"
           }
         },
         {
@@ -196,7 +206,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 21521,
-            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/MichaFarm-1.20.1/fabricmods/required/missuljjeongUI-1.0-SNAPSHOT.jar",
+            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/v1-1.20.1/fabricmods/required/missuljjeongUI-1.0-SNAPSHOT.jar",
             "MD5": "e9a6549cd41659f2314c82a5dccd9201"
           }
         },
@@ -206,7 +216,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 49080465,
-            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/MichaFarm-1.20.1/fabricmods/required/SJ-Core-2.0.1.11.jar",
+            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/v1-1.20.1/fabricmods/required/SJ-Core-2.0.1.11.jar",
             "MD5": "93b3d7085836527ab073118033e94b5d"
           }
         },
@@ -216,7 +226,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3657427,
-            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/MichaFarm-1.20.1/fabricmods/required/SJ-Donation-3.1.1-SNAPSHOT.jar",
+            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/v1-1.20.1/fabricmods/required/SJ-Donation-3.1.1-SNAPSHOT.jar",
             "MD5": "54c68ac501a71d977e410cbedb66b26d"
           }
         },
@@ -226,7 +236,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 971552,
-            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/MichaFarm-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/v1-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
             "MD5": "76e0349865f91f315aae087a6e88a84a"
           }
         },
@@ -236,7 +246,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 11030,
-            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/MichaFarm-1.20.1/fabricmods/required/tabnametag-fabric-0.1.0+mc1.20.jar",
+            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/v1-1.20.1/fabricmods/required/tabnametag-fabric-0.1.0+mc1.20.jar",
             "MD5": "efbe28182061f96223430c741d2fc260"
           }
         },
@@ -246,7 +256,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 8059177,
-            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/MichaFarm-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.16.jar",
+            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/v1-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.16.jar",
             "MD5": "3f610ea6d0ce33e1ddd1325394fc5cf2"
           }
         },
@@ -256,7 +266,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 155225,
-            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/MichaFarm-1.20.1/fabricmods/required/WI-Zoom-1.6-MC1.20.1.jar",
+            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/v1-1.20.1/fabricmods/required/WI-Zoom-1.6-MC1.20.1.jar",
             "MD5": "402e43eac5ceb006c20b19928f880fda"
           }
         },
@@ -266,7 +276,7 @@
           "type": "File",
           "artifact": {
             "size": 295,
-            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/MichaFarm-1.20.1/files/config/iris.properties",
+            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/v1-1.20.1/files/config/iris.properties",
             "path": "config/iris.properties"
           }
         },
@@ -275,9 +285,31 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 6726,
-            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/MichaFarm-1.20.1/files/options.txt",
+            "size": 6763,
+            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/v1-1.20.1/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "BetterVanillaBuildingV3.5.zip",
+          "name": "BetterVanillaBuildingV3.5.zip",
+          "type": "File",
+          "artifact": {
+            "size": 4378250,
+            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/v1-1.20.1/files/resourcepacks/BetterVanillaBuildingV3.5.zip",
+            "MD5": "3cb643173998e05eefa13cb5a5ccab20",
+            "path": "resourcepacks/BetterVanillaBuildingV3.5.zip"
+          }
+        },
+        {
+          "id": "generated.zip",
+          "name": "generated.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1666865,
+            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/v1-1.20.1/files/resourcepacks/generated.zip",
+            "MD5": "485569b38532e0767cc06a99eeba941e",
+            "path": "resourcepacks/generated.zip"
           }
         },
         {
@@ -286,7 +318,7 @@
           "type": "File",
           "artifact": {
             "size": 142241,
-            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/MichaFarm-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.51%20Medium.zip",
+            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/v1-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.51%20Medium.zip",
             "MD5": "f2ac25e1dd3afb18344d18593b41e905",
             "path": "shaderpacks/Sildur's Vibrant Shaders v1.51 Medium.zip"
           }
