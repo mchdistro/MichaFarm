@@ -141,6 +141,16 @@
           }
         },
         {
+          "id": "net.cocoonmc.runtime:cocoon_rt:2.0.1@jar",
+          "name": "Cocoon Runtime Library",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 381379,
+            "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/v2-1.20.1/fabricmods/required/cocoon-rt-2.0.1.jar",
+            "MD5": "cf969132ca54976946b5e0f6dec178f1"
+          }
+        },
+        {
           "id": "nora.nora:enterkeymod:1.0-SNAPSHOT@jar",
           "name": "EnterKeyMod",
           "type": "FabricMod",
@@ -306,9 +316,9 @@
           "name": "generated.zip",
           "type": "File",
           "artifact": {
-            "size": 1666865,
+            "size": 1666512,
             "url": "https://github.com/mchdistro/MichaFarm/raw/main/servers/v2-1.20.1/files/resourcepacks/generated.zip",
-            "MD5": "485569b38532e0767cc06a99eeba941e",
+            "MD5": "8ebbec622816c8ffbfd61c734b84b204",
             "path": "resourcepacks/generated.zip"
           }
         },
